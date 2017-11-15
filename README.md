@@ -17,12 +17,13 @@ This project is within a [Jupyter Notebook](http://jupyter.org/).  To start the 
 Follow the instructions within the notebook.
 
 #Models
-Following training accuracy achieved With only 20 Epoch:
-- Simple Model: 57%
-- Embedding Model: 76%
-- Bidirectional (No Embedding): 58%
-- Encoder-Decoder Model: 68%
-- *Final Model* (Multiple Techniques):
+Following training accuracy achieved With only 20 epochs:
+1- Simple Model: 57%
+2- Embedding Model: 76%
+3- Bidirectional (No Embedding): 58%
+4- Encoder-Decoder Model: 68%
+5- *Final Model* (Multiple Techniques): 97.79%
+    Final Model training accuracy reached 96.2% by the 10th epoch
 
 #Thing to improve
 - Increase epoch for higher accuracy
