@@ -16,6 +16,19 @@ This end-to-end machine translation pipeline delivered as final project for Udac
 This project is within a [Jupyter Notebook](http://jupyter.org/).  To start the notebook, run the command `jupyter notebook machine_translation.ipynb` in this directory.
 Follow the instructions within the notebook.
 
+#Models
+Following training accuracy achieved With only 20 Epoch:
+- Simple Model: 57%
+- Embedding Model: 76%
+- Bidirectional (No Embedding): 58%
+- Encoder-Decoder Model: 68%
+- *Final Model* (Multiple Techniques):
+
+#Thing to improve
+- Increase epoch for higher accuracy
+- Increase training data
+- Add more layers or more units for deeper understanding of data.
+
 # Contribution
 TODO and Implement parts in the notebook done by Ahmad Barqawi
 Document strcure done by Udacity Team
